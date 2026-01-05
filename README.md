@@ -32,8 +32,8 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 
 ## Anexos
 
-* [cite_start]**URL da Estimativa:** https://calculator.aws/#/estimate?id=07f5cacf2d60d36d1740ca1bda23d1ebaab0f27d [cite: 5]
-* [cite_start]**Relatório de Exportação:** My Estimate - Calculadora de Preços da AWS.pdf [cite: 4]
+* **URL da Estimativa:** https://calculator.aws/#/estimate?id=07f5cacf2d60d36d1740ca1bda23d1ebaab0f27d
+* **Relatório de Exportação:** My Estimate - Calculadora de Preços da AWS.pdf
 
 Assinatura do Responsável pelo Projeto:
 
